@@ -1,0 +1,221 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="140.94719mm"
+   height="44.979156mm"
+   viewBox="0 0 140.94719 44.979156"
+   version="1.1"
+   id="svg8"
+   inkscape:version="1.0 (4035a4fb49, 2020-05-01)"
+   sodipodi:docname="CitronBuyers_logo.svg">
+  <defs
+     id="defs2">
+    <inkscape:path-effect
+       effect="fillet_chamfer"
+       id="path-effect864"
+       is_visible="true"
+       lpeversion="1"
+       satellites_param="F,0,0,1,0,1.1115613,0,1 @ F,0,0,1,0,1.4288553,0,1 @ F,0,0,1,0,1.2769256,0,1"
+       unit="px"
+       method="auto"
+       mode="F"
+       radius="0"
+       chamfer_steps="1"
+       flexible="false"
+       use_knot_distance="true"
+       apply_no_radius="true"
+       apply_with_radius="true"
+       only_selected="false"
+       hide_knots="false" />
+    <inkscape:path-effect
+       effect="fillet_chamfer"
+       id="path-effect862"
+       is_visible="true"
+       lpeversion="1"
+       satellites_param="F,0,0,1,0,1.2358227,0,1 @ F,0,0,1,0,1.0547699,0,1 @ F,0,0,1,0,1.2386537,0,1"
+       unit="px"
+       method="auto"
+       mode="F"
+       radius="0"
+       chamfer_steps="1"
+       flexible="false"
+       use_knot_distance="true"
+       apply_no_radius="true"
+       apply_with_radius="true"
+       only_selected="false"
+       hide_knots="false" />
+    <inkscape:path-effect
+       effect="fillet_chamfer"
+       id="path-effect860"
+       is_visible="true"
+       lpeversion="1"
+       satellites_param="F,0,0,1,0,1.1620953,0,1 @ F,0,0,1,0,1.154204,0,1 @ F,0,0,1,0,1.113737,0,1"
+       unit="px"
+       method="auto"
+       mode="F"
+       radius="0"
+       chamfer_steps="1"
+       flexible="false"
+       use_knot_distance="true"
+       apply_no_radius="true"
+       apply_with_radius="true"
+       only_selected="false"
+       hide_knots="false" />
+    <inkscape:path-effect
+       effect="fillet_chamfer"
+       id="path-effect858"
+       is_visible="true"
+       lpeversion="1"
+       satellites_param="F,0,0,1,0,1.2103082,0,1 @ F,0,0,1,0,1.5273268,0,1 @ F,0,0,1,0,1.4970657,0,1"
+       unit="px"
+       method="auto"
+       mode="F"
+       radius="0"
+       chamfer_steps="1"
+       flexible="false"
+       use_knot_distance="true"
+       apply_no_radius="true"
+       apply_with_radius="true"
+       only_selected="false"
+       hide_knots="false" />
+  </defs>
+  <sodipodi:namedview
+     fit-margin-bottom="0"
+     fit-margin-right="0"
+     fit-margin-left="0"
+     fit-margin-top="0"
+     showborder="true"
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="1"
+     inkscape:cx="344.16664"
+     inkscape:cy="162.76978"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     inkscape:document-rotation="0"
+     showgrid="true"
+     inkscape:window-width="1920"
+     inkscape:window-height="1001"
+     inkscape:window-x="-9"
+     inkscape:window-y="-9"
+     inkscape:window-maximized="1"
+     inkscape:snap-page="true">
+    <inkscape:grid
+       originy="-7.4806675"
+       originx="76.070104"
+       snapvisiblegridlinesonly="false"
+       type="xygrid"
+       id="grid1441" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     transform="translate(76.070108,-7.4806683)"
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <path
+       style="fill:#fc8eac;fill-opacity:1;stroke:none;stroke-width:0.28167px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M -56.070018,7.4806683 V 52.459825"
+       id="path1443" />
+    <g
+       transform="translate(-112.21997,-23.150543)"
+       style="fill:#fc8eac;fill-opacity:1"
+       id="g876">
+      <path
+         d="M 76.150002,53.041468 A 20,20 0 0 0 56.149673,33.120721 20,20 0 0 0 36.149862,53.120528 a 20,20 0 0 0 19.999811,20.00033 20,20 0 0 0 20.000329,-20.00033 20,20 0 0 0 0,-0.0791 z m -1.999878,0.0656 a 18,18 0 0 1 0,0.0134 18,18 0 0 1 -18.000451,17.99993 18,18 0 0 1 -17.999935,-17.99994 18,18 0 0 1 17.999935,-17.999927 18,18 0 0 1 18.000451,17.986487 z"
+         style="fill:#fc8eac;fill-opacity:1;stroke:none;stroke-width:1.57069;stroke-opacity:1"
+         id="path18" />
+      <path
+         inkscape:original-d="M 45.218318,41.440881 55.620785,51.843348 V 37.132101 a 15.997487,15.997487 0 0 0 -10.402467,4.30878 z"
+         inkscape:path-effect="#path-effect858"
+         d="m 46.074135,42.296698 8.466667,8.466667 a 0.63263947,0.63263947 157.5 0 0 1.079983,-0.447344 V 38.629167 c 0,-0.826807 -0.671865,-1.482087 -1.491752,-1.377699 -2.925668,0.372495 -5.694359,1.547404 -7.996642,3.396558 -0.521026,0.418479 -0.530911,1.176017 -0.05826,1.648672 z"
+         style="fill:#fc8eac;fill-opacity:1;stroke:#000000;stroke-width:0.00502629;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="path3378" />
+      <path
+         inkscape:original-d="m 55.620785,69.109478 v -14.71125 l -10.402467,10.40247 a 15.997487,15.997487 0 0 0 10.402467,4.30878 z"
+         inkscape:path-effect="#path-effect864"
+         d="M 55.620785,67.997917 V 55.827083 a 0.59185112,0.59185112 22.499996 0 0 -1.010353,-0.418502 l -8.489191,8.489194 c -0.498671,0.498671 -0.488348,1.298179 0.06318,1.737386 2.392445,1.905233 5.283001,3.085749 8.327584,3.399026 0.610551,0.06282 1.108785,-0.422372 1.108785,-1.03627 z"
+         style="fill:#fc8eac;fill-opacity:1;stroke:#000000;stroke-width:0.00502629;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="path3372" />
+      <path
+         inkscape:original-d="m 40.161263,53.649958 a 15.997487,15.997487 0 0 0 4.308782,10.40246 l 10.402467,-10.40246 z"
+         inkscape:path-effect="#path-effect862"
+         d="m 40.249754,54.882301 c 0.340322,3.072769 1.564506,5.983449 3.525423,8.376835 0.369119,0.450526 1.02879,0.45936 1.440703,0.04745 l 8.780771,-8.780765 a 0.51306692,0.51306692 67.50001 0 0 -0.362793,-0.87586 l -12.236772,0 c -0.682526,0 -1.222447,0.554133 -1.147332,1.232343 z"
+         style="fill:#fc8eac;fill-opacity:1;stroke:#000000;stroke-width:0.00502629;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="path3346" />
+      <path
+         inkscape:original-d="M 54.872512,52.591618 44.470045,42.189161 a 15.997487,15.997487 0 0 0 -4.308782,10.402457 z"
+         inkscape:path-effect="#path-effect860"
+         d="m 54.050786,51.769893 -8.764595,-8.764587 c -0.450745,-0.450744 -1.172962,-0.441234 -1.573792,0.05425 -1.949867,2.410309 -3.157811,5.33662 -3.475621,8.421116 -0.06303,0.611737 0.423122,1.110949 1.038222,1.110949 h 12.435417 a 0.48135531,0.48135531 112.49999 0 0 0.340369,-0.821725 z"
+         style="fill:#fc8eac;fill-opacity:1;stroke:#000000;stroke-width:0.00502629;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="path3344" />
+      <g
+         style="fill:#fc8eac;fill-opacity:1"
+         id="g963"
+         transform="rotate(90,71.935089,14.112779)">
+        <path
+           d="m 107.30766,28.310416 h 2.82257 a 2,2 0 0 1 0.69246,-0.132291 2,2 0 0 1 0.0222,0 2,2 0 0 1 0.7152,0.132291 h 2.82153 a 3.9999999,3.9999999 0 0 0 -3.53673,-2.132169 3.9999999,3.9999999 0 0 0 -3.53725,2.132169 z"
+           style="fill:#fc8eac;fill-opacity:1;stroke-width:1.8286"
+           id="path938" />
+        <path
+           d="m 103.06606,28.310416 h 2.07739 a 5.9999998,5.9999998 0 0 1 5.70146,-4.132564 5.9999998,5.9999998 0 0 1 5.70198,4.132564 h 2.07688 a 7.9999998,7.9999998 0 0 0 -7.77886,-6.132442 7.9999998,7.9999998 0 0 0 -7.77885,6.132442 z"
+           style="fill:#fc8eac;fill-opacity:1;stroke-width:1.8286"
+           id="path934" />
+        <path
+           d="m 98.991373,28.310416 h 2.029847 a 10,10 0 0 1 9.82369,-8.13232 10,10 0 0 1 9.82369,8.13232 h 2.02985 A 12,12 0 0 0 110.84491,18.177702 12,12 0 0 0 98.991373,28.310416 Z"
+           style="fill:#fc8eac;fill-opacity:1;stroke-width:1.8286"
+           id="path930" />
+        <path
+           d="m 110.79892,14.177946 a 16,16 0 0 0 -15.844509,14.13247 h 2.015897 a 14,14 0 0 1 13.874602,-12.132592 14,14 0 0 1 13.87461,12.132592 h 2.0159 a 16,16 0 0 0 -15.89051,-14.13247 16,16 0 0 0 -0.046,0 z"
+           style="fill:#fc8eac;fill-opacity:1;stroke-width:1.8286"
+           id="path926" />
+      </g>
+    </g>
+    <g
+       id="g906">
+      <text
+         id="text992-3"
+         y="39.539295"
+         x="14.138662"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.25563px;line-height:1.25;font-family:'Berlin Sans FB Demi';-inkscape-font-specification:'Berlin Sans FB Demi, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#fc8eac;fill-opacity:1;stroke-width:0.625563"
+         xml:space="preserve"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.25563px;font-family:'Berlin Sans FB Demi';-inkscape-font-specification:'Berlin Sans FB Demi, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#fc8eac;fill-opacity:1;stroke-width:0.625563"
+           y="39.539295"
+           x="14.138662"
+           id="tspan990-6"
+           sodipodi:role="line">by Alison Louzano</tspan></text>
+      <text
+         id="text992-3-8-6"
+         y="31.326788"
+         x="-30.448042"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.0369px;line-height:1.25;font-family:'Berlin Sans FB Demi';-inkscape-font-specification:'Berlin Sans FB Demi, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#fc8eac;fill-opacity:1;stroke-width:1.70369"
+         xml:space="preserve"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.0369px;font-family:'Berlin Sans FB Demi';-inkscape-font-specification:'Berlin Sans FB Demi, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#fc8eac;fill-opacity:1;stroke-width:1.70369"
+           y="31.326788"
+           x="-30.448042"
+           id="tspan990-6-2-7"
+           sodipodi:role="line">Citron Delay</tspan></text>
+    </g>
+  </g>
+</svg>
